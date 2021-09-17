@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/flare-fansite/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/flare-fansite/static/js/main.928641c8.chunk.js",
-    "main.js.map": "/flare-fansite/static/js/main.928641c8.chunk.js.map",
-    "runtime-main.js": "/flare-fansite/static/js/runtime-main.5879e0ac.js",
-    "runtime-main.js.map": "/flare-fansite/static/js/runtime-main.5879e0ac.js.map",
-    "static/js/2.2b29ceb0.chunk.js": "/flare-fansite/static/js/2.2b29ceb0.chunk.js",
-    "static/js/2.2b29ceb0.chunk.js.map": "/flare-fansite/static/js/2.2b29ceb0.chunk.js.map",
-    "static/js/3.90894c60.chunk.js": "/flare-fansite/static/js/3.90894c60.chunk.js",
-    "static/js/3.90894c60.chunk.js.map": "/flare-fansite/static/js/3.90894c60.chunk.js.map",
+    "main.css": "/flare-fansite/static/css/main.a9331dd4.chunk.css",
+    "main.js": "/flare-fansite/static/js/main.a8cc32b3.chunk.js",
+    "main.js.map": "/flare-fansite/static/js/main.a8cc32b3.chunk.js.map",
+    "runtime-main.js": "/flare-fansite/static/js/runtime-main.7f8de891.js",
+    "runtime-main.js.map": "/flare-fansite/static/js/runtime-main.7f8de891.js.map",
+    "static/js/2.fc489fe4.chunk.js": "/flare-fansite/static/js/2.fc489fe4.chunk.js",
+    "static/js/2.fc489fe4.chunk.js.map": "/flare-fansite/static/js/2.fc489fe4.chunk.js.map",
+    "static/js/3.21e74f21.chunk.js": "/flare-fansite/static/js/3.21e74f21.chunk.js",
+    "static/js/3.21e74f21.chunk.js.map": "/flare-fansite/static/js/3.21e74f21.chunk.js.map",
     "index.html": "/flare-fansite/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/flare-fansite/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.2b29ceb0.chunk.js.LICENSE.txt": "/flare-fansite/static/js/2.2b29ceb0.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/flare-fansite/static/media/logo.6ce24c58.svg"
+    "static/css/main.a9331dd4.chunk.css.map": "/flare-fansite/static/css/main.a9331dd4.chunk.css.map",
+    "static/js/2.fc489fe4.chunk.js.LICENSE.txt": "/flare-fansite/static/js/2.fc489fe4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5879e0ac.js",
-    "static/js/2.2b29ceb0.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.928641c8.chunk.js"
+    "static/js/runtime-main.7f8de891.js",
+    "static/js/2.fc489fe4.chunk.js",
+    "static/css/main.a9331dd4.chunk.css",
+    "static/js/main.a8cc32b3.chunk.js"
   ]
 }
