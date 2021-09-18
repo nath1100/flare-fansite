@@ -1,25 +1,27 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import Container from '../Container';
 import './style.css';
 
 function Header() {
     return (
-        <Container>
+        <div className="box-container">
             <nav>
                 <ul className="navigation">
                     <li>
-                        <Link to="/">Home</Link>
+                        <Link to="/">HOME</Link>
                     </li>
                     <li>
-                        <Link to="/about">About</Link>
+                        <Link to="/about">ABOUT</Link>
                     </li>
                     <li>
-                        <Link to="/media">Media</Link>
+                        <Link to="/media">MEDIA</Link>
+                    </li>
+                    <li>
+                        <p id="header-icon">&#x1F525;</p>
                     </li>
                 </ul>
             </nav>
-        </Container>
+        </div>
     );
 }
 

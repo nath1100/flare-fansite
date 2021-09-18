@@ -1,0 +1,16 @@
+.body-container {
+    background-color: white;
+    margin: 60px auto 0;
+    width: 80%;
+    padding: 40px;
+    border-radius: 48px;
+}
+
+.full-vertical-container {
+    min-height: 60vh;
+    background-color: white;
+    margin: 60px auto 0;
+    width: 80%;
+    padding: 40px;
+    border-radius: 48px;
+}

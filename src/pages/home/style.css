@@ -1,0 +1,19 @@
+#flare-bust {
+    width: 50%;
+    height: 100%;
+    float: left;
+    margin-right: 50px;
+    object-fit: cover;
+}
+
+.title-container {
+    margin-left: 5%;
+}
+
+.title-text {
+    font-size: 72px;
+    color: rgb(255, 145, 72);
+    font-weight: bold;
+    font-style: italic;
+    text-align: left;
+}
