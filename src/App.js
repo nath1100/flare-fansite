@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import React from 'react';
 import Header from './components/Header';
 import { Route, Switch } from 'react-router-dom';
 import Home from './pages/home';
@@ -7,10 +7,6 @@ import Media from './pages/media';
 import './App.css';
 
 function App() {
-
-  useEffect(() => {
-    document.title = "Shiranui Flare";
-  }, [])
 
   return (
     <div>

@@ -6,6 +6,16 @@
     object-fit: cover;
 }
 
+.social-icon {
+    height: 20px;
+    width: 20px;
+    margin-left: 20px;
+}
+
+.social-link {
+    text-decoration: none;
+}
+
 .title-container {
     margin-left: 5%;
 }
@@ -16,4 +26,14 @@
     font-weight: bold;
     font-style: italic;
     text-align: left;
+}
+
+.title-text-span {
+    font-size: 20px;
+    margin-left: 8px;
+}
+
+.footnote-text {
+    font-size: 12px;
+    text-align: right;
 }

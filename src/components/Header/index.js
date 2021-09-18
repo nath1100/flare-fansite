@@ -11,10 +11,10 @@ function Header() {
                         <Link to="/">HOME</Link>
                     </li>
                     <li>
-                        <Link to="/about">ABOUT</Link>
+                        <Link to="/media">MEDIA</Link>
                     </li>
                     <li>
-                        <Link to="/media">MEDIA</Link>
+                        <Link to="/about">ABOUT</Link>
                     </li>
                     <li>
                         <p id="header-icon">&#x1F525;</p>

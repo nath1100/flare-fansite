@@ -30,3 +30,7 @@
 .navigation a:hover {
     background-color: rgb(250, 150, 83);
 }
+
+.navigation a:active {
+    background-color: rgb(255, 138, 60);
+}
