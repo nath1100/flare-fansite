@@ -6,16 +6,6 @@
     object-fit: cover;
 }
 
-.social-icon {
-    height: 20px;
-    width: 20px;
-    margin-left: 20px;
-}
-
-.social-link {
-    text-decoration: none;
-}
-
 .title-container {
     margin-left: 5%;
 }

@@ -5,6 +5,7 @@ import flareFull from '../../images/flare-casual-full.png';
 import youtubeIcon from '../../images/youtubefavicon.ico';
 import twitterIcon from '../../images/twitterfavicon.ico';
 import redditIcon from '../../images/redditfavicon.png';
+import SocialLink from '../../components/SocialLink';
 
 function Home() {
     return (
@@ -23,18 +24,9 @@ function Home() {
                 <p className="footnote-text">From official bio</p>
                 <div>
                     <h3>Socials/Links</h3>
-                    <p>
-                        <img className="social-icon" src={youtubeIcon} alt="youtube icon" />
-                        <a className="social-link" href="https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg" rel="noreferrer" target="_blank"> Youtube channel</a>
-                    </p>
-                    <p>
-                        <img className="social-icon" src={twitterIcon} alt="twitter icon" />
-                        <a className="social-link" href="https://twitter.com/shiranuiflare" rel="noreferrer" target="_blank"> Twitter</a>
-                    </p>
-                    <p>
-                        <img className="social-icon" src={redditIcon} alt="reddit icon" />
-                        <a className="social-link" href="https://www.reddit.com/user/shiranuiflare" rel="noreferrer" target="_blank"> Reddit</a>
-                    </p>
+                    <SocialLink icon={youtubeIcon} altText="youtube icon" link="https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg" text="YouTube channel" />
+                    <SocialLink icon={twitterIcon} altText="twitter icon" link="https://twitter.com/shiranuiflare" text="Twitter" />
+                    <SocialLink icon={redditIcon} altText="reddit icon" link="https://www.reddit.com/user/shiranuiflare" text="Reddit" />
                 </div>
             </WhiteContainer>
         </div>
