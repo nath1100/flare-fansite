@@ -1,11 +1,11 @@
 import React from 'react';
 import WhiteContainer from '../../components/WhiteContainer';
-import './style.css'
+import './style.css';
 
 function About() {
     
     return (
-        <div>
+        <>
             <h1 id="about-title-text" className="title-text">About
                 <span className="title-text-span">what this is</span>
             </h1>
@@ -26,7 +26,7 @@ function About() {
                     I'm just an Elfriend trying to learn some new skills. &#x1F525;
                 </p>
             </WhiteContainer>
-        </div>
+        </>
     );
 }
 

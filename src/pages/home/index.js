@@ -1,5 +1,5 @@
 import React from 'react';
-import './style.css'
+import './style.css';
 import WhiteContainer from '../../components/WhiteContainer';
 import flareFull from '../../images/flare-casual-full.png';
 import youtubeIcon from '../../images/youtubefavicon.ico';
@@ -9,7 +9,7 @@ import SocialLink from '../../components/SocialLink';
 
 function Home() {
     return (
-        <div>
+        <>
             <div className="title-container">
                 <p className="title-text">
                     <img id="flare-bust" src={flareFull} alt="flare-bust" />
@@ -29,7 +29,7 @@ function Home() {
                     <SocialLink icon={redditIcon} altText="reddit icon" link="https://www.reddit.com/user/shiranuiflare" text="Reddit" />
                 </div>
             </WhiteContainer>
-        </div>
+        </>
     );
 }
 

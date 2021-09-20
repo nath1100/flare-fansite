@@ -1,3 +1,21 @@
-#media-title-text {
+#song-title-text {
     margin-left: 17%;
+}
+
+#concert-title-text {
+    margin-left: 17%;
+}
+
+#stream-title-text {
+    text-align: right;
+    margin-right: 17%;
+}
+
+.media-body-container {
+    background-color: white;
+    margin: 60px auto 30px;
+    width: 80%;
+    padding: 40px;
+    border-radius: 48px;
+    text-align: center;
 }
